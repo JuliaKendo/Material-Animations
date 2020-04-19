@@ -17,6 +17,7 @@ gen-external-apklibs/
 local.properties
 
 # intellij & maven
+/screenshots
 .classpath
 .project
 .settings/
