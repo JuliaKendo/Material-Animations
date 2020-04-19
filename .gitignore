@@ -34,3 +34,4 @@ out/
 .gradle
 build/**
 libraries/build/**
+settings.gradle
